@@ -1,13 +1,13 @@
-Full Name,Payment Amount,City,Payment Date,Remarks
- kartik sharma ,"₹5,000",jaipur,05/01/24,paid via upi
-KARTIK SHARMA,5000 , Jaipur ,2024-01-05,UPI
-Kartik Sharma,Five Thousand,Jaipur,Jan 5 2024,
-Aman kumar,"4,500",delhi,2024/01/05,done
-AMAN KUMAR,4500,DELHI,05-01-2024,
-Sneha,6000,pune,2024-01-10,ok
-Snehaa ,6000 , Pune ,10 Jan 2024,
-Ravi,7500,DELHI,11-01-2024,paid
-Ravi Kumar,"₹2,000",Delhi,2024-02-05,
-,3000,Jaipur,2024-02-01,missing name
-Vikas,6500,,2024-01-10,no city
-Vikas,6500,Jaipur,2024-01-10,duplicate?
+Order_ID,Customer_Name,City,Order_Date,Sales_Amount,Payment_Mode,Remarks
+101,rahul sharma,delhi,12/01/2024,"₹1,200",UPI,delivered
+102,Anita  Verma,Mumbai ,2024-01-13,one thousand five hundred
+,Credit Card, Delivered 
+103,ROHIT KUMAR,DELHI,14-01-2024,"$1,800",Cash,late delivery
+103,ROHIT KUMAR,DELHI,14-01-2024,"$1,800",Cash,late delivery
+104,,Bangalore,01/15/24,,UPI,
+105,Priya Singh,banglore,16 Jan 2024,"2,000 INR",upi,ok
+106,Amit$,,2024/01/17,₹2500,Debit Card,
+107,Neha  Gupta,Pune,,"3,000",,Returned
+108, ,Delhi,18-01-24,₹,Cash,delivered
+109,Suresh Patel,Ahmedabad,"January 19, 2024","4,500",Credit Card,Delivered
+
