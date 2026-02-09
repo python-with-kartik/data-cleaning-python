@@ -1,0 +1,7 @@
+order_id,customer_name,city,order_date,sales_amount,payment_mode,remarks
+101,Rahul Sharma,Delhi,2024-01-12,1200,upi,delivered
+102,Anita Verma,Mumbai,2024-01-13,1500,Unknown,no remarks
+103,Rohit Kumar,Delhi,2024-01-14,1800,cash,late delivery
+105,Priya Singh,Bengaluru,2024-01-16,2000,upi,ok
+106,Amit,Unknown,2024-01-17,2500,debit card,no remarks
+109,Suresh Patel,Ahmedabad,2024-01-19,4500,credit card,delivered

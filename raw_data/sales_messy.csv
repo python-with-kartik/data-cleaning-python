@@ -5,7 +5,7 @@ Order_ID,Customer_Name,City,Order_Date,Sales_Amount,Payment_Mode,Remarks
 103,ROHIT KUMAR,DELHI,14-01-2024,"$1,800",Cash,late delivery
 103,ROHIT KUMAR,DELHI,14-01-2024,"$1,800",Cash,late delivery
 104,,Bangalore,01/15/24,,UPI,
-105,Priya Singh,banglore,16 Jan 2024,"2,000 INR",upi,ok
+105,Priya Singh,bengaluru,16 Jan 2024,"2,000 INR",upi,ok
 106,Amit$,,2024/01/17,₹2500,Debit Card,
 107,Neha  Gupta,Pune,,"3,000",,Returned
 108, ,Delhi,18-01-24,₹,Cash,delivered
