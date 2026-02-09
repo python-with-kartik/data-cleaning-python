@@ -1,20 +1,38 @@
-# Data Cleaning with Python
+# Sales Data Cleaning using Python
 
-This repository demonstrates real-world data cleaning tasks
-commonly required in freelance projects.
+## Project Overview
+This project demonstrates how I clean real-world messy sales data using Python and Pandas.  
+The raw dataset contains common issues such as missing values, duplicate records, inconsistent formats, and currency symbols.
 
-## What this project covers
-- Cleaning messy CSV / Excel files
-- Removing duplicates and empty rows
-- Standardizing text data (names, cities)
-- Cleaning currency values (₹, $, commas)
-- Converting dates to YYYY-MM-DD format
+The objective is to transform raw sales data into clean, structured, and analysis-ready data.
 
-## Tools & Libraries
+---
+
+## Dataset Information
+- Raw data file: raw_data/sales_messy.csv  
+- Cleaned data file: cleaned_data/sales_cleaned.csv  
+
+The raw dataset includes:
+- Missing and blank values
+- Duplicate rows
+- Inconsistent text formatting
+- Mixed date formats
+- Currency symbols (₹, $, commas)
+
+---
+
+## Data Cleaning Tasks Performed
+- Removed duplicate records
+- Handled missing values appropriately
+- Cleaned and standardized text columns
+- Removed currency symbols and converted amounts to numeric values
+- Converted all dates into YYYY-MM-DD format
+- Standardized categorical values
+- Exported clean data to a new CSV file
+
+---
+
+## Tools & Technologies
 - Python
-- pandas
-- numpy
+- Pandas
 
-This project represents my approach to handling client data
-cleaning requirements professionally.# data-cleaning-python
-Real-world data cleaning using Python (pandas)
